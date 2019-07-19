@@ -137,19 +137,30 @@ if (isAwesome) {
 ---
 A veces deseamos listas numeradas: 
 
+    1. Una 
+    2. Dos 
+    3. Tres 
+
+
 1. Una 
 2. Dos 
 3. Tres 
 
 A veces se desea viñetas: 
 
-* Comience una línea con una estrella 
+    * Comience una línea con una estrella 
+    - Los guiones funcionan igual de bien 
+        - pto secundario (se pone 2 espacios antes del * o - )
+    - Y si tiene puntos secundarios, ponga dos espacios antes del guión o estrella: 
+      - Así 
+      - Y esto
+ 
+ * Comience una línea con una estrella 
 - Los guiones funcionan igual de bien 
     - pto secundario (se pone 2 espacios antes del * o - )
 - Y si tiene puntos secundarios, ponga dos espacios antes del guión o estrella: 
   - Así 
   - Y esto
- 
 ---
 ## EXTRAS
 
